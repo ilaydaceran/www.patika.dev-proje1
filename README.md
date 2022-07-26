@@ -16,6 +16,8 @@ Best case: O(n)
 Avarage Case: O(n^2)
 Worst Case: O(n^2)
 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.  Avarage Case 
+
+
 **[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 1.[2,3,5,8,7,9,4,15,6]
 2.[2,3,5,8,7,9,4,15,6]
